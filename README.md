@@ -4,9 +4,7 @@ As part of the codebasics september month resume challenge, I have worked on thi
 
 Link to the [Challenge](https://codebasics.io/event/codebasics-resume-project-challenge)
 
-Link to [Interactive Dashboard](https://www.novypro.com/project/-codebasics-september-month-resume-challenge)
-
-Link to [Presentation Video]()
+Link to [Interactive Dashboard](https://www.novypro.com/project/like-1)
 
 ## Problem statement
 
