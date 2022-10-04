@@ -36,13 +36,13 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Overall Analysis View
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
+    <img src=(https://user-images.githubusercontent.com/89390696/193763841-d42834a8-4e28-44a7-afc8-dabc53d009dd.png)' width="600">
 </p>
 
 ## Monthly Analysis View
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png' width="600">
+    <img src='(https://user-images.githubusercontent.com/89390696/193763817-92f72fce-956a-47df-b108-91c4b6be2dac.png)' width="600">
 </p>
 
 ## Learnt things from this Project 
