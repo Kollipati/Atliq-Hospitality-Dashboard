@@ -42,7 +42,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Monthly Analysis View
 
 <p align="center">
-    <img src='(https://user-images.githubusercontent.com/89390696/193763817-92f72fce-956a-47df-b108-91c4b6be2dac.png)' width="600">
+    <img src="https://user-images.githubusercontent.com/89390696/193763817-92f72fce-956a-47df-b108-91c4b6be2dac.png" width="600">
 </p>
 
 ## Learnt things from this Project 
