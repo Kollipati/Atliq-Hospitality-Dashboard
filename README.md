@@ -33,16 +33,28 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 </p>
 
 
-## Overall Analysis View
+## Home Page
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/89390696/193763841-d42834a8-4e28-44a7-afc8-dabc53d009dd.png" width="600">
+    <img src="(https://user-images.githubusercontent.com/89390696/235401459-27bf48f2-b530-4fb7-b7b9-4506b1f53742.png" width="600">
 </p>
 
-## Monthly Analysis View
+## Hower Effect
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/89390696/193763817-92f72fce-956a-47df-b108-91c4b6be2dac.png" width="600">
+    <img src="https://user-images.githubusercontent.com/89390696/235402785-b43ca94a-7655-4caa-9c86-2e28939b971a.png" width="600">
+</p>
+
+## Filters
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/89390696/235402469-999f4c17-f9d1-436a-84db-c3bc91f4ce8f.png" width="600">
+</p>
+
+## Monthly Analysis Page
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/89390696/235401972-18c39086-1a1b-4a53-9dac-b61b1d226d95.png" width="600">
 </p>
 
 ## Learnt things from this Project 
