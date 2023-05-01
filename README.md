@@ -36,7 +36,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Home Page
 
 <p align="center">
-    <img src="(https://user-images.githubusercontent.com/89390696/235401459-27bf48f2-b530-4fb7-b7b9-4506b1f53742.png" width="600">
+    <img src="https://user-images.githubusercontent.com/89390696/235401459-27bf48f2-b530-4fb7-b7b9-4506b1f53742.png" width="600">
 </p>
 
 ## Hower Effect
